@@ -1,0 +1,63 @@
+c:\users\lucio\documents\visual studio 2013\Projects\juegoPvsZ\juegoPvsZ\bin\Debug\juegoPvsZ.exe.config
+c:\users\lucio\documents\visual studio 2013\Projects\juegoPvsZ\juegoPvsZ\bin\Debug\juegoPvsZ.exe
+c:\users\lucio\documents\visual studio 2013\Projects\juegoPvsZ\juegoPvsZ\bin\Debug\juegoPvsZ.pdb
+c:\users\lucio\documents\visual studio 2013\Projects\juegoPvsZ\juegoPvsZ\obj\Debug\juegoPvsZ.csprojResolveAssemblyReference.cache
+c:\users\lucio\documents\visual studio 2013\Projects\juegoPvsZ\juegoPvsZ\obj\Debug\juegoPvsZ.Form1.resources
+c:\users\lucio\documents\visual studio 2013\Projects\juegoPvsZ\juegoPvsZ\obj\Debug\juegoPvsZ.Properties.Resources.resources
+c:\users\lucio\documents\visual studio 2013\Projects\juegoPvsZ\juegoPvsZ\obj\Debug\juegoPvsZ.csproj.GenerateResource.Cache
+c:\users\lucio\documents\visual studio 2013\Projects\juegoPvsZ\juegoPvsZ\obj\Debug\juegoPvsZ.exe
+c:\users\lucio\documents\visual studio 2013\Projects\juegoPvsZ\juegoPvsZ\obj\Debug\juegoPvsZ.pdb
+C:\Users\lucio\documents\visual studio 2013\Projects\juegoPvsZ\juegoPvsZ\obj\Debug\juegoPvsZ.Form2.resources
+C:\Users\lucio\Documents\Visual Studio 2013\Projects\juegoPvsZ\juegoPvsZ\obj\Debug\juegoPvsZ.FormSPlash.resources
+C:\Users\lucio\Documents\Visual Studio 2013\Projects\juegoPvsZ\juegoPvsZ\bin\Debug\juegoPvsZ.exe.manifest
+C:\Users\lucio\Documents\Visual Studio 2013\Projects\juegoPvsZ\juegoPvsZ\bin\Debug\juegoPvsZ.application
+C:\Users\lucio\Documents\Visual Studio 2013\Projects\juegoPvsZ\juegoPvsZ\obj\Debug\juegoPvsZ.exe.manifest
+C:\Users\lucio\Documents\Visual Studio 2013\Projects\juegoPvsZ\juegoPvsZ\obj\Debug\juegoPvsZ.application
+J:\backup de proyecto 5 semestre\herramientas\juegoPvsZ\juegoPvsZ\bin\Debug\juegoPvsZ.exe.config
+J:\backup de proyecto 5 semestre\herramientas\juegoPvsZ\juegoPvsZ\obj\Debug\juegoPvsZ.exe
+J:\backup de proyecto 5 semestre\herramientas\juegoPvsZ\juegoPvsZ\obj\Debug\juegoPvsZ.pdb
+J:\backup de proyecto 5 semestre\herramientas\juegoPvsZ\juegoPvsZ\bin\Debug\juegoPvsZ.exe.manifest
+J:\backup de proyecto 5 semestre\herramientas\juegoPvsZ\juegoPvsZ\bin\Debug\juegoPvsZ.application
+J:\backup de proyecto 5 semestre\herramientas\juegoPvsZ\juegoPvsZ\bin\Debug\juegoPvsZ.exe
+J:\backup de proyecto 5 semestre\herramientas\juegoPvsZ\juegoPvsZ\bin\Debug\juegoPvsZ.pdb
+J:\backup de proyecto 5 semestre\herramientas\juegoPvsZ\juegoPvsZ\obj\Debug\juegoPvsZ.csprojResolveAssemblyReference.cache
+J:\backup de proyecto 5 semestre\herramientas\juegoPvsZ\juegoPvsZ\obj\Debug\juegoPvsZ.Form1.resources
+J:\backup de proyecto 5 semestre\herramientas\juegoPvsZ\juegoPvsZ\obj\Debug\juegoPvsZ.Form2.resources
+J:\backup de proyecto 5 semestre\herramientas\juegoPvsZ\juegoPvsZ\obj\Debug\juegoPvsZ.FormSPlash.resources
+J:\backup de proyecto 5 semestre\herramientas\juegoPvsZ\juegoPvsZ\obj\Debug\juegoPvsZ.Properties.Resources.resources
+J:\backup de proyecto 5 semestre\herramientas\juegoPvsZ\juegoPvsZ\obj\Debug\juegoPvsZ.csproj.GenerateResource.Cache
+J:\backup de proyecto 5 semestre\herramientas\juegoPvsZ\juegoPvsZ\obj\Debug\juegoPvsZ.exe.manifest
+J:\backup de proyecto 5 semestre\herramientas\juegoPvsZ\juegoPvsZ\obj\Debug\juegoPvsZ.application
+J:\backup de proyecto 5 semestre\herramientas\juegoPvsZ\juegoPvsZ\obj\Debug\juegoPvsZ.nivel3.resources
+G:\unimayor\backup de proyecto 5 semestre\herramientas\juegoPvsZ\juegoPvsZ\bin\Debug\juegoPvsZ.exe.config
+G:\unimayor\backup de proyecto 5 semestre\herramientas\juegoPvsZ\juegoPvsZ\obj\Debug\juegoPvsZ.exe
+G:\unimayor\backup de proyecto 5 semestre\herramientas\juegoPvsZ\juegoPvsZ\obj\Debug\juegoPvsZ.pdb
+G:\unimayor\backup de proyecto 5 semestre\herramientas\juegoPvsZ\juegoPvsZ\bin\Debug\juegoPvsZ.exe.manifest
+G:\unimayor\backup de proyecto 5 semestre\herramientas\juegoPvsZ\juegoPvsZ\bin\Debug\juegoPvsZ.application
+G:\unimayor\backup de proyecto 5 semestre\herramientas\juegoPvsZ\juegoPvsZ\bin\Debug\juegoPvsZ.exe
+G:\unimayor\backup de proyecto 5 semestre\herramientas\juegoPvsZ\juegoPvsZ\bin\Debug\juegoPvsZ.pdb
+G:\unimayor\backup de proyecto 5 semestre\herramientas\juegoPvsZ\juegoPvsZ\obj\Debug\juegoPvsZ.csprojResolveAssemblyReference.cache
+G:\unimayor\backup de proyecto 5 semestre\herramientas\juegoPvsZ\juegoPvsZ\obj\Debug\juegoPvsZ.Form1.resources
+G:\unimayor\backup de proyecto 5 semestre\herramientas\juegoPvsZ\juegoPvsZ\obj\Debug\juegoPvsZ.Form2.resources
+G:\unimayor\backup de proyecto 5 semestre\herramientas\juegoPvsZ\juegoPvsZ\obj\Debug\juegoPvsZ.FormSPlash.resources
+G:\unimayor\backup de proyecto 5 semestre\herramientas\juegoPvsZ\juegoPvsZ\obj\Debug\juegoPvsZ.nivel3.resources
+G:\unimayor\backup de proyecto 5 semestre\herramientas\juegoPvsZ\juegoPvsZ\obj\Debug\juegoPvsZ.Properties.Resources.resources
+G:\unimayor\backup de proyecto 5 semestre\herramientas\juegoPvsZ\juegoPvsZ\obj\Debug\juegoPvsZ.csproj.GenerateResource.Cache
+G:\unimayor\backup de proyecto 5 semestre\herramientas\juegoPvsZ\juegoPvsZ\obj\Debug\juegoPvsZ.exe.manifest
+G:\unimayor\backup de proyecto 5 semestre\herramientas\juegoPvsZ\juegoPvsZ\obj\Debug\juegoPvsZ.application
+J:\unimayor\backup de proyecto 5 semestre\herramientas\juegoPvsZ\juegoPvsZ\bin\Debug\juegoPvsZ.exe.config
+J:\unimayor\backup de proyecto 5 semestre\herramientas\juegoPvsZ\juegoPvsZ\obj\Debug\juegoPvsZ.exe
+J:\unimayor\backup de proyecto 5 semestre\herramientas\juegoPvsZ\juegoPvsZ\obj\Debug\juegoPvsZ.pdb
+J:\unimayor\backup de proyecto 5 semestre\herramientas\juegoPvsZ\juegoPvsZ\bin\Debug\juegoPvsZ.exe.manifest
+J:\unimayor\backup de proyecto 5 semestre\herramientas\juegoPvsZ\juegoPvsZ\bin\Debug\juegoPvsZ.application
+J:\unimayor\backup de proyecto 5 semestre\herramientas\juegoPvsZ\juegoPvsZ\bin\Debug\juegoPvsZ.exe
+J:\unimayor\backup de proyecto 5 semestre\herramientas\juegoPvsZ\juegoPvsZ\bin\Debug\juegoPvsZ.pdb
+J:\unimayor\backup de proyecto 5 semestre\herramientas\juegoPvsZ\juegoPvsZ\obj\Debug\juegoPvsZ.csprojResolveAssemblyReference.cache
+J:\unimayor\backup de proyecto 5 semestre\herramientas\juegoPvsZ\juegoPvsZ\obj\Debug\juegoPvsZ.Form1.resources
+J:\unimayor\backup de proyecto 5 semestre\herramientas\juegoPvsZ\juegoPvsZ\obj\Debug\juegoPvsZ.Form2.resources
+J:\unimayor\backup de proyecto 5 semestre\herramientas\juegoPvsZ\juegoPvsZ\obj\Debug\juegoPvsZ.FormSPlash.resources
+J:\unimayor\backup de proyecto 5 semestre\herramientas\juegoPvsZ\juegoPvsZ\obj\Debug\juegoPvsZ.nivel3.resources
+J:\unimayor\backup de proyecto 5 semestre\herramientas\juegoPvsZ\juegoPvsZ\obj\Debug\juegoPvsZ.Properties.Resources.resources
+J:\unimayor\backup de proyecto 5 semestre\herramientas\juegoPvsZ\juegoPvsZ\obj\Debug\juegoPvsZ.csproj.GenerateResource.Cache
+J:\unimayor\backup de proyecto 5 semestre\herramientas\juegoPvsZ\juegoPvsZ\obj\Debug\juegoPvsZ.exe.manifest
+J:\unimayor\backup de proyecto 5 semestre\herramientas\juegoPvsZ\juegoPvsZ\obj\Debug\juegoPvsZ.application
